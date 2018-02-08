@@ -926,7 +926,7 @@
 "MESSAGE_STATUS_FAILED" = "No s'ha pogut enviar. Toqueu per a més informació.";
 
 /* message footer for read messages */
-"MESSAGE_STATUS_READ" = "Llegeix";
+"MESSAGE_STATUS_READ" = "Llegit";
 
 /* message status while message is sending. */
 "MESSAGE_STATUS_SENDING" = "S'està enviant...";
